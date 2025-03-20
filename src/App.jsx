@@ -1,13 +1,13 @@
 import React,{useEffect} from 'react';
 import AOS from"aos" ;
 import"aos/dist/aos.css" ;
-import Navbar from './components/Navbar';
-import Home from './components/Home';
-import Services from'./components/Services';
-import Banner from'./components/Banner';
-import AppStore from'./components/AppStore';
-import Testimonial from'./components/Testmonial';
-import Footer from'./components/Footer';
+import Navbar from './coffee-shop/Navbar';
+import Home from './coffee-shop/Home';
+import Services from'./coffee-shop/Services';
+import Banner from'./coffee-shop/Banner';
+import AppStore from'./coffee-shop/AppStore';
+import Testimonial from'./coffee-shop/Testmonial';
+import Footer from'./coffee-shop/Footer';
 
 
 
