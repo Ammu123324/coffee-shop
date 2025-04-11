@@ -1,6 +1,6 @@
 import React from 'react'
-import Img17 from'../assets/img17.png'
-import Img16 from'../assets/img16.png'
+import Img17 from'../assets/2 (2).png'
+import Img16 from'../assets/3.png'
 import Img14 from'../assets/img14.png'
 
 const ServicesData =[
@@ -40,7 +40,7 @@ const ServicesData =[
       <div data-aos="fade-up"
       
       className='text-center mb-20'>
-        <h1 className='text-4xl font-bold font-cursive text-gray-800'>Best Coffee for you</h1>
+        <h1 className='text-4xl font-bold font-cursive text-gray-900'>Best Coffee for you</h1>
       </div>
      {/* services card section */}
 <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center'>
@@ -51,7 +51,7 @@ const ServicesData =[
         data-aos="fade-up"
         data-aos-delay={data.aosDelay}
         key={index}
-        className='rounded-2xl bg-white hover:bg-primary hover:text-white shadow-xl duration-200
+        className='rounded-2xl bg-white hover:bg-primary hover:text-white shadow-2xl duration-200
         max-w-[300px] group relative'
         
         >
@@ -66,7 +66,7 @@ const ServicesData =[
               {/* Text content */}
               <div className='p-4 text-center'>
                 <h1 className='text-xl font-bold'>{data.name}</h1>
-                <p className='text-gray-500 group-hover:text-white duration-300
+                <p className='text-gray-1000 group-hover:text-white duration-300
                 text-sm line-clamp-2'>{data.description}</p>
               </div>
 

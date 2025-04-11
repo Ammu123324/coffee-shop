@@ -1,7 +1,7 @@
 import React from 'react'
 import AppStoreImg from'../assets/104.png';
 import PlayStoreImg from'../assets/105.png';
-import BgPng from'../assets/img.jpg';
+import BgPng from'../assets/305.jpg';
 
 const backgroundStyle = {
    backgroundImage: `url(${BgPng})`, 
