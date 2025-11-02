@@ -4,7 +4,7 @@ import HeroImg from'../assets/2.png'
  const Home =() =>{
   return (
     
-    <div  className="min-h-[550px] sm:min-h-[600px]  bg-brandDark flex justify-center textAlign-center
+    <div  className="min-h-[50px] sm:min-h-[650px] h-100%  bg-brandDark flex justify-center textAlign-center
     items-center text-white">
             
          
@@ -27,14 +27,14 @@ import HeroImg from'../assets/2.png'
                         from-primary to-secondary border-2 border-primary rounded-full px-4 py-2 text-white hover:scale-105 duration-200">Coffee and Code</button>
                     </div>
                 </div>
-                {/* {/* Image section*/ }
+                {/* {Image section*/ }
                 <div data-aos="zoom in"
               
                 className="min-h-[450px] flex justify-center items-center 
                 order-1 sm:order-2 relative">
 
                 <img src={HeroImg} 
-                alt="" className="w-[300px] sm:w-[450px] sm:scale-110 mx-auto spin"
+                alt="" className="w-[270px] sm:w-[350px] sm:scale-110 mx-auto spin"
                 />
                   
                   <div 

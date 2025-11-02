@@ -15,13 +15,13 @@ const TestimonialData = [
   {
     id: 3,
     name: 'Silviya',
-    text: 'The taste was not great. Have been a consumer of Davidoff Espresso',
+    text: 'The taste was not great. Have been a consumer of Davidoff Espresso as well as.',
     img: J,
   },
   {
     id: 4,
     name: 'Amirtha',
-    text: 'The fresh taste, aroma and effect- all combined make this coffee exciting.',
+    text: 'The fresh taste, aroma and effect- all combined make this coffee excitinga and looking very hot.',
     img: o,
   },
   {
